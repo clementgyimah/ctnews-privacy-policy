@@ -8,7 +8,7 @@ export const App = () => {
         <StyledMainHeadingDiv>CTNEWS PRIVACY POLICY</StyledMainHeadingDiv>
         <StyledSubHeadingDiv>CTNEWS</StyledSubHeadingDiv>
         <StyledLastUpdatedDiv>
-          Last updated January 20, 2025
+          Last updated: January 20, 2025
         </StyledLastUpdatedDiv>
         <StyledContentDiv>
           <StyledContentDescriptionParagraph>
