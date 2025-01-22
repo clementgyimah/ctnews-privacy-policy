@@ -155,7 +155,7 @@ export const App = () => {
             <StyledContentDescriptionText>
               CTnews Company Limited
             </StyledContentDescriptionText>
-            <StyledContentDescriptionText>Kumasi</StyledContentDescriptionText>
+            <StyledContentDescriptionText>Accra</StyledContentDescriptionText>
             <StyledContentDescriptionText>Ghana</StyledContentDescriptionText>
             <StyledContentDescriptionText>
               +233559505063
